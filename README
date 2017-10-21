@@ -1,0 +1,21 @@
+一个python django下载文件的演示程序
+A demo program for downloading Python Django files
+
+You need
+python 2.7.13
+Django (1.11.6)
+
+cd ../django_download_program
+python manage.py runserver 127.0.0.1:8000
+Open your browser enter http://127.0.0.1:8000/down
+
+你需要
+python 2.7.13
+Django (1.11.6)
+在命令行打开程序目录
+cd ../django_download_program
+输入
+python manage.py runserver 127.0.0.1:8000
+在浏览器输入
+http://127.0.0.1:8000/down
+你就可以将文件已zip形式下载下来
